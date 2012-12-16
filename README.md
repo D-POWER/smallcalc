@@ -7,5 +7,5 @@ A small command-line calculator:
 My implementation is mainly inspired by minic, a small parser, that implements a subset of the C language, which was published 
 at the appendix of the book "The Art of C++" written by Herbert Schildt.
 
-Some credit also goes to the creator of <a href="www.speqmath.com">SpecQ Math</a>
+Some credit also goes to the creator of <a href="http:/www.speqmath.com">SpecQ Math</a>
 
